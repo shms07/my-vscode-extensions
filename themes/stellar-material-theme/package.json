@@ -1,0 +1,21 @@
+{
+    "name": "stellar-material-theme",
+    "displayName": "Stellar Material Theme",
+    "description": "Color scheme based on the principles of Material Design and the star motif. A simple yet modern and sophisticated design.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.95.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Stellar Material Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Stellar Material Theme-color-theme.json"
+            }
+        ]
+    }
+}
